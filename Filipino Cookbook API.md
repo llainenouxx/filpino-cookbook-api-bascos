@@ -1,7 +1,5 @@
 # Filipino Cookbook API
 
-## About Filipino Cookbook API
-
 The Filipino Cookbook API is a RESTful API designed to provide programmatic access to a collection of Filipino food recipes. It allows users to retrieve information about various Filipino dishes, including their ingredients, categories, origins, and cooking instructions. The API also supports searching for dishes by name and adding new food entries.
 
 ## API Description
@@ -268,10 +266,17 @@ All API endpoints are prefixed with `/api` and require authentication unless oth
 
 The API returns standard HTTP status codes to indicate the success or failure of a request.
 
-| Status Code | Description |
+| Status Code | Meaning |
 |---|---|
-| `200 OK` | The request was successful. (e.g., GET requests) |
-| `201 Created` | The request was successful and a new resource was created. (e.g., POST /api/foods) |
-| `401 Unauthorized` | Authentication is required or has failed. (e.g., Missing or invalid `Authorization` header) |
-| `404 Not Found` | The requested resource could not be found. (e.g., `food_id` does not exist) |
-| `500 Internal Server Error` | An unexpected error occurred on the server. |
+| `200` | OK |
+| `201` | Created |
+| `401` | Unauthorized |
+| `404` | Not Found |
+| `500` | Internal Server Error |
+
+## Developer Information
+*    Name: Bascos, Adellaine Nicole D.
+*    Course & Section: BSInfoTech 4-A
+*    Github Username: llainenouxx
+*    Repository: https://github.com/llainenouxx/filpino-cookbook-api-bascos
+*    Date Completed:
