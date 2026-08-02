@@ -1,0 +1,552 @@
+{
+    "foods": [
+        {
+            "food_id": 1,
+            "food_name": "Adobo",
+            "category_name": "Main Dish",
+            "origin_name": "Philippines",
+            "instructions": "Marinate the meat with soy sauce, vinegar, garlic, bay leaves, and peppercorn. Simmer until the meat becomes tender and the sauce is reduced.",
+            "ingredients": [
+                "Chicken or pork",
+                "Soy sauce",
+                "Vinegar",
+                "Garlic",
+                "Bay leaves",
+                "Peppercorn",
+                "Cooking oil"
+            ]
+        },
+        {
+            "food_id": 2,
+            "food_name": "Sinigang",
+            "category_name": "Soup",
+            "origin_name": "Philippines",
+            "instructions": "Boil the meat or seafood with tomatoes. Add tamarind mix and vegetables, then simmer until cooked.",
+            "ingredients": [
+                "Pork, shrimp, or fish",
+                "Tamarind mix",
+                "Tomato",
+                "Radish",
+                "String beans",
+                "Kangkong",
+                "Green chili"
+            ]
+        },
+        {
+            "food_id": 3,
+            "food_name": "Kare-Kare",
+            "category_name": "Main Dish",
+            "origin_name": "Philippines",
+            "instructions": "Boil the meat until tender. Add peanut sauce, ground rice, and vegetables. Serve with bagoong.",
+            "ingredients": [
+                "Oxtail or beef",
+                "Peanut sauce",
+                "Eggplant",
+                "String beans",
+                "Banana blossom",
+                "Ground rice",
+                "Bagoong"
+            ]
+        },
+        {
+            "food_id": 4,
+            "food_name": "Tinola",
+            "category_name": "Soup",
+            "origin_name": "Philippines",
+            "instructions": "Saute garlic, onion, and ginger. Add chicken and fish sauce. Pour water and simmer, then add papaya and malunggay.",
+            "ingredients": [
+                "Chicken",
+                "Ginger",
+                "Garlic",
+                "Onion",
+                "Green papaya",
+                "Malunggay leaves",
+                "Fish sauce"
+            ]
+        },
+        {
+            "food_id": 5,
+            "food_name": "Bicol Express",
+            "category_name": "Main Dish",
+            "origin_name": "Bicol Region",
+            "instructions": "Saute garlic and onion. Add pork, shrimp paste, coconut milk, and chili peppers. Simmer until the sauce thickens.",
+            "ingredients": [
+                "Pork",
+                "Coconut milk",
+                "Shrimp paste",
+                "Garlic",
+                "Onion",
+                "Chili peppers"
+            ]
+        },
+        {
+            "food_id": 6,
+            "food_name": "Pinakbet",
+            "category_name": "Vegetable Dish",
+            "origin_name": "Ilocos Region",
+            "instructions": "Saute tomato, garlic, and onion. Add vegetables and shrimp paste, then cook until vegetables are tender.",
+            "ingredients": [
+                "Squash",
+                "Eggplant",
+                "Bitter melon",
+                "String beans",
+                "Okra",
+                "Tomato",
+                "Shrimp paste"
+            ]
+        },
+        {
+            "food_id": 7,
+            "food_name": "Laing",
+            "category_name": "Vegetable Dish",
+            "origin_name": "Bicol Region",
+            "instructions": "Cook dried taro leaves in coconut milk with garlic, onion, ginger, chili, and shrimp paste until creamy.",
+            "ingredients": [
+                "Dried taro leaves",
+                "Coconut milk",
+                "Coconut cream",
+                "Garlic",
+                "Onion",
+                "Ginger",
+                "Chili peppers",
+                "Shrimp paste"
+            ]
+        },
+        {
+            "food_id": 8,
+            "food_name": "Menudo",
+            "category_name": "Main Dish",
+            "origin_name": "Philippines",
+            "instructions": "Saute garlic and onion. Add pork and liver, then simmer with tomato sauce, potatoes, carrots, and raisins.",
+            "ingredients": [
+                "Pork",
+                "Liver",
+                "Potatoes",
+                "Carrots",
+                "Tomato sauce",
+                "Garlic",
+                "Onion",
+                "Raisins"
+            ]
+        },
+        {
+            "food_id": 9,
+            "food_name": "Afritada",
+            "category_name": "Main Dish",
+            "origin_name": "Philippines",
+            "instructions": "Saute garlic and onion. Add meat, tomato sauce, potatoes, carrots, and bell pepper. Simmer until cooked.",
+            "ingredients": [
+                "Chicken or pork",
+                "Tomato sauce",
+                "Potatoes",
+                "Carrots",
+                "Bell pepper",
+                "Garlic",
+                "Onion"
+            ]
+        },
+        {
+            "food_id": 10,
+            "food_name": "Pancit Canton",
+            "category_name": "Noodle Dish",
+            "origin_name": "Philippines",
+            "instructions": "Saute garlic, onion, meat, and shrimp. Add vegetables, soy sauce, and noodles. Cook until noodles are tender.",
+            "ingredients": [
+                "Canton noodles",
+                "Chicken or pork",
+                "Shrimp",
+                "Cabbage",
+                "Carrots",
+                "Soy sauce",
+                "Garlic",
+                "Onion"
+            ]
+        },
+        {
+            "food_id": 11,
+            "food_name": "Lumpiang Shanghai",
+            "category_name": "Appetizer",
+            "origin_name": "Philippines",
+            "instructions": "Mix ground pork, vegetables, and egg. Wrap in spring roll wrappers and deep-fry until golden brown.",
+            "ingredients": [
+                "Ground pork",
+                "Carrots",
+                "Onion",
+                "Garlic",
+                "Egg",
+                "Spring roll wrapper",
+                "Cooking oil"
+            ]
+        },
+        {
+            "food_id": 12,
+            "food_name": "Lechon Kawali",
+            "category_name": "Main Dish",
+            "origin_name": "Philippines",
+            "instructions": "Boil pork belly with spices until tender. Dry the pork, then deep-fry until crispy.",
+            "ingredients": [
+                "Pork belly",
+                "Salt",
+                "Peppercorn",
+                "Bay leaves",
+                "Garlic",
+                "Cooking oil"
+            ]
+        },
+        {
+            "food_id": 13,
+            "food_name": "Chicken Inasal",
+            "category_name": "Grilled Dish",
+            "origin_name": "Bacolod",
+            "instructions": "Marinate chicken in calamansi, vinegar, garlic, ginger, and lemongrass. Grill while brushing with annatto oil.",
+            "ingredients": [
+                "Chicken",
+                "Calamansi juice",
+                "Vinegar",
+                "Garlic",
+                "Ginger",
+                "Lemongrass",
+                "Annatto oil"
+            ]
+        },
+        {
+            "food_id": 14,
+            "food_name": "Bulalo",
+            "category_name": "Soup",
+            "origin_name": "Philippines",
+            "instructions": "Boil beef shank and bone marrow until tender. Add corn and vegetables, then simmer before serving.",
+            "ingredients": [
+                "Beef shank",
+                "Bone marrow",
+                "Corn",
+                "Cabbage",
+                "Pechay",
+                "Onion",
+                "Peppercorn"
+            ]
+        },
+        {
+            "food_id": 15,
+            "food_name": "Halo-Halo",
+            "category_name": "Dessert",
+            "origin_name": "Philippines",
+            "instructions": "Layer sweet ingredients in a glass. Add crushed ice, evaporated milk, leche flan, and ube ice cream.",
+            "ingredients": [
+                "Crushed ice",
+                "Evaporated milk",
+                "Sweetened banana",
+                "Sweet beans",
+                "Nata de coco",
+                "Kaong",
+                "Leche flan",
+                "Ube ice cream"
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "category_id": 1,
+            "category_name": "Appetizer"
+        },
+        {
+            "category_id": 2,
+            "category_name": "Dessert"
+        },
+        {
+            "category_id": 3,
+            "category_name": "Grilled Dish"
+        },
+        {
+            "category_id": 4,
+            "category_name": "Main Dish"
+        },
+        {
+            "category_id": 5,
+            "category_name": "Noodle Dish"
+        },
+        {
+            "category_id": 6,
+            "category_name": "Soup"
+        },
+        {
+            "category_id": 7,
+            "category_name": "Vegetable Dish"
+        }
+    ],
+    "origins": [
+        {
+            "origin_id": 1,
+            "origin_name": "Bacolod"
+        },
+        {
+            "origin_id": 2,
+            "origin_name": "Bicol Region"
+        },
+        {
+            "origin_id": 3,
+            "origin_name": "Ilocos Region"
+        },
+        {
+            "origin_id": 4,
+            "origin_name": "Philippines"
+        }
+    ],
+    "all_ingredients": [
+        {
+            "ingredient_id": 1,
+            "ingredient_name": "Annatto oil"
+        },
+        {
+            "ingredient_id": 2,
+            "ingredient_name": "Bagoong"
+        },
+        {
+            "ingredient_id": 3,
+            "ingredient_name": "Banana blossom"
+        },
+        {
+            "ingredient_id": 4,
+            "ingredient_name": "Bay leaves"
+        },
+        {
+            "ingredient_id": 5,
+            "ingredient_name": "Beef shank"
+        },
+        {
+            "ingredient_id": 6,
+            "ingredient_name": "Bell pepper"
+        },
+        {
+            "ingredient_id": 7,
+            "ingredient_name": "Bitter melon"
+        },
+        {
+            "ingredient_id": 8,
+            "ingredient_name": "Bone marrow"
+        },
+        {
+            "ingredient_id": 9,
+            "ingredient_name": "Cabbage"
+        },
+        {
+            "ingredient_id": 10,
+            "ingredient_name": "Calamansi juice"
+        },
+        {
+            "ingredient_id": 11,
+            "ingredient_name": "Canton noodles"
+        },
+        {
+            "ingredient_id": 12,
+            "ingredient_name": "Carrots"
+        },
+        {
+            "ingredient_id": 13,
+            "ingredient_name": "Chicken"
+        },
+        {
+            "ingredient_id": 14,
+            "ingredient_name": "Chicken or pork"
+        },
+        {
+            "ingredient_id": 15,
+            "ingredient_name": "Chili peppers"
+        },
+        {
+            "ingredient_id": 16,
+            "ingredient_name": "Coconut cream"
+        },
+        {
+            "ingredient_id": 17,
+            "ingredient_name": "Coconut milk"
+        },
+        {
+            "ingredient_id": 18,
+            "ingredient_name": "Cooking oil"
+        },
+        {
+            "ingredient_id": 19,
+            "ingredient_name": "Corn"
+        },
+        {
+            "ingredient_id": 20,
+            "ingredient_name": "Crushed ice"
+        },
+        {
+            "ingredient_id": 21,
+            "ingredient_name": "Dried taro leaves"
+        },
+        {
+            "ingredient_id": 22,
+            "ingredient_name": "Egg"
+        },
+        {
+            "ingredient_id": 23,
+            "ingredient_name": "Eggplant"
+        },
+        {
+            "ingredient_id": 24,
+            "ingredient_name": "Evaporated milk"
+        },
+        {
+            "ingredient_id": 25,
+            "ingredient_name": "Fish sauce"
+        },
+        {
+            "ingredient_id": 26,
+            "ingredient_name": "Garlic"
+        },
+        {
+            "ingredient_id": 27,
+            "ingredient_name": "Ginger"
+        },
+        {
+            "ingredient_id": 28,
+            "ingredient_name": "Green chili"
+        },
+        {
+            "ingredient_id": 29,
+            "ingredient_name": "Green papaya"
+        },
+        {
+            "ingredient_id": 30,
+            "ingredient_name": "Ground pork"
+        },
+        {
+            "ingredient_id": 31,
+            "ingredient_name": "Ground rice"
+        },
+        {
+            "ingredient_id": 32,
+            "ingredient_name": "Kangkong"
+        },
+        {
+            "ingredient_id": 33,
+            "ingredient_name": "Kaong"
+        },
+        {
+            "ingredient_id": 34,
+            "ingredient_name": "Leche flan"
+        },
+        {
+            "ingredient_id": 35,
+            "ingredient_name": "Lemongrass"
+        },
+        {
+            "ingredient_id": 36,
+            "ingredient_name": "Liver"
+        },
+        {
+            "ingredient_id": 37,
+            "ingredient_name": "Malunggay leaves"
+        },
+        {
+            "ingredient_id": 38,
+            "ingredient_name": "Nata de coco"
+        },
+        {
+            "ingredient_id": 39,
+            "ingredient_name": "Okra"
+        },
+        {
+            "ingredient_id": 40,
+            "ingredient_name": "Onion"
+        },
+        {
+            "ingredient_id": 41,
+            "ingredient_name": "Oxtail or beef"
+        },
+        {
+            "ingredient_id": 42,
+            "ingredient_name": "Peanut sauce"
+        },
+        {
+            "ingredient_id": 43,
+            "ingredient_name": "Pechay"
+        },
+        {
+            "ingredient_id": 44,
+            "ingredient_name": "Peppercorn"
+        },
+        {
+            "ingredient_id": 45,
+            "ingredient_name": "Pork"
+        },
+        {
+            "ingredient_id": 46,
+            "ingredient_name": "Pork belly"
+        },
+        {
+            "ingredient_id": 47,
+            "ingredient_name": "Pork, shrimp, or fish"
+        },
+        {
+            "ingredient_id": 48,
+            "ingredient_name": "Potatoes"
+        },
+        {
+            "ingredient_id": 49,
+            "ingredient_name": "Radish"
+        },
+        {
+            "ingredient_id": 50,
+            "ingredient_name": "Raisins"
+        },
+        {
+            "ingredient_id": 51,
+            "ingredient_name": "Salt"
+        },
+        {
+            "ingredient_id": 52,
+            "ingredient_name": "Shrimp"
+        },
+        {
+            "ingredient_id": 53,
+            "ingredient_name": "Shrimp paste"
+        },
+        {
+            "ingredient_id": 54,
+            "ingredient_name": "Soy sauce"
+        },
+        {
+            "ingredient_id": 55,
+            "ingredient_name": "Spring roll wrapper"
+        },
+        {
+            "ingredient_id": 56,
+            "ingredient_name": "Squash"
+        },
+        {
+            "ingredient_id": 57,
+            "ingredient_name": "String beans"
+        },
+        {
+            "ingredient_id": 58,
+            "ingredient_name": "Sweet beans"
+        },
+        {
+            "ingredient_id": 59,
+            "ingredient_name": "Sweetened banana"
+        },
+        {
+            "ingredient_id": 60,
+            "ingredient_name": "Tamarind mix"
+        },
+        {
+            "ingredient_id": 61,
+            "ingredient_name": "Tomato"
+        },
+        {
+            "ingredient_id": 62,
+            "ingredient_name": "Tomato sauce"
+        },
+        {
+            "ingredient_id": 63,
+            "ingredient_name": "Ube ice cream"
+        },
+        {
+            "ingredient_id": 64,
+            "ingredient_name": "Vinegar"
+        }
+    ]
+}

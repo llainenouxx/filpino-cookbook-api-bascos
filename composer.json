@@ -1,0 +1,14 @@
+{
+    "name": "manus/filipino-cookbook-api",
+    "description": "Filipino Cookbook API for Laboratory Activity",
+    "type": "project",
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
