@@ -270,6 +270,7 @@ The API returns standard HTTP status codes to indicate the success or failure of
 |---|---|
 | `200` | OK |
 | `201` | Created |
+| `400` | Bad Request |
 | `401` | Unauthorized |
 | `404` | Not Found |
 | `500` | Internal Server Error |
