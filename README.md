@@ -276,7 +276,7 @@ The API returns standard HTTP status codes to indicate the success or failure of
 | `500` | Internal Server Error |
 
 ## Developer Information
-*    Name: Bascos, Adellaine Nicole D.
+*    Name: Bascos, Adellaine Nicole De Guzman
 *    Course & Section: BSInfoTech 4-A
 *    Github Username: llainenouxx
 *    Repository: https://github.com/llainenouxx/filpino-cookbook-api-bascos
